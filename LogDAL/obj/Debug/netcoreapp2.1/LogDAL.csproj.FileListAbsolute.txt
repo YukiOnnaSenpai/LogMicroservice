@@ -1,0 +1,11 @@
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\bin\Debug\netcoreapp2.1\LogDAL.deps.json
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\bin\Debug\netcoreapp2.1\LogDAL.dll
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\obj\Debug\netcoreapp2.1\LogDAL.csprojAssemblyReference.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\obj\Debug\netcoreapp2.1\LogDAL.csproj.CoreCompileInputs.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\obj\Debug\netcoreapp2.1\LogDAL.AssemblyInfoInputs.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\obj\Debug\netcoreapp2.1\LogDAL.AssemblyInfo.cs
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\bin\Debug\netcoreapp2.1\LogDAL.runtimeconfig.json
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\bin\Debug\netcoreapp2.1\LogDAL.runtimeconfig.dev.json
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\bin\Debug\netcoreapp2.1\LogDAL.pdb
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\obj\Debug\netcoreapp2.1\LogDAL.dll
+C:\Users\Wicked Witch\source\repos\URISError\LogDAL\obj\Debug\netcoreapp2.1\LogDAL.pdb

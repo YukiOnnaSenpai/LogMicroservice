@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogDAL", "LogDAL\LogDAL.csproj", "{01E4DB17-F0EC-49D1-AE40-5B5001F16935}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogService", "LogService\LogService.csproj", "{A048D9BA-FF4C-4DAE-BD26-EBA78D0F5E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E4DB17-F0EC-49D1-AE40-5B5001F16935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E4DB17-F0EC-49D1-AE40-5B5001F16935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E4DB17-F0EC-49D1-AE40-5B5001F16935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E4DB17-F0EC-49D1-AE40-5B5001F16935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A048D9BA-FF4C-4DAE-BD26-EBA78D0F5E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A048D9BA-FF4C-4DAE-BD26-EBA78D0F5E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A048D9BA-FF4C-4DAE-BD26-EBA78D0F5E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A048D9BA-FF4C-4DAE-BD26-EBA78D0F5E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB462E7-0C65-4DC3-8896-906B74CC0676}
+	EndGlobalSection
+EndGlobal

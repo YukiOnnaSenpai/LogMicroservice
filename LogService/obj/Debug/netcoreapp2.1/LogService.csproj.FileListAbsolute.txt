@@ -1,0 +1,17 @@
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogService.deps.json
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogService.runtimeconfig.json
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogService.runtimeconfig.dev.json
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogService.dll
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogService.pdb
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogDAL.dll
+C:\Users\Wicked Witch\source\repos\URISError\LogService\bin\Debug\netcoreapp2.1\LogDAL.pdb
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.csprojAssemblyReference.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.csproj.CoreCompileInputs.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.RazorAssemblyInfo.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.RazorAssemblyInfo.cs
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.AssemblyInfoInputs.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.AssemblyInfo.cs
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.RazorTargetAssemblyInfo.cache
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.csproj.CopyComplete
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.dll
+C:\Users\Wicked Witch\source\repos\URISError\LogService\obj\Debug\netcoreapp2.1\LogService.pdb
